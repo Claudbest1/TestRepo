@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TestRepo
 To test our push
 
@@ -23,3 +24,10 @@ Good coding standard and structure should be adopted e.g Proper code committing
 Please endeavor to ask if you need further clarification.
 
 Thank You
+=======
+## Chats
+
+**Jibolacodes**
+    - Hi devs, I decided to add a README
+    
+>>>>>>> upstream/dev
